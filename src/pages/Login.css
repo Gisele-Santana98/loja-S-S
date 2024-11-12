@@ -1,0 +1,52 @@
+body{
+    background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuZuiQ8Y4U5cqJUK2KLBJtUn46HhKMrzjNAbfpfXm23P2hG0ydENzRck8Jc6yODPKzBd9F7wKIOHEQ2gyWT98SIVYL-RqiW_E-yYhZ5F49rrXFJDCWuBDlI3av9lcLFxnUv4EyKRCPiQGI/s1600/flor-em-tons-vermelhos-imagens-imagem-de-fundo-wallpaper-para-pc-computador-tela-gratis-ambiente-de-trabalho.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-color: rgb(152, 209, 209);
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.corpo{
+    position: relative;
+    left: px;
+    width: -300px;
+    background-color: rgba(221, 204, 166, 0.219);
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    
+}
+h2{
+    color: #000;
+    margin-bottom: 20px;
+    text-align: left;
+    font-size: 24px;
+}
+h4{
+    color: #000;
+    margin-bottom: 0px;
+    text-align:left;
+}
+input {
+    padding: 10px;
+    margin-bottom: 20px;
+    width: 280px;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+}
+button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: rgb(199, 171, 192);
+    color: rgb(5, 5, 5);
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
